@@ -1,0 +1,228 @@
+{
+  "tabela": [
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "100MB",
+      "preco": 3
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "150MB",
+      "preco": 4
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "210MB",
+      "preco": 5
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "260MB",
+      "preco": 6
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "310MB",
+      "preco": 7
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "350MB",
+      "preco": 8
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "380MB",
+      "preco": 9
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "410MB",
+      "preco": 10
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "520MB",
+      "preco": 13
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "610MB",
+      "preco": 15
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "810MB",
+      "preco": 20
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "1.30GB",
+      "preco": 25
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "1.220GB",
+      "preco": 30
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "1.540GB",
+      "preco": 38
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "2.60GB",
+      "preco": 50
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "2.440GB",
+      "preco": 60
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "3.100GB",
+      "preco": 75
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "4.150GB",
+      "preco": 100
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "5.200GB",
+      "preco": 150
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "3.4GB",
+      "preco": 95
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "5.2GB",
+      "preco": 145
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "7.1GB",
+      "preco": 185
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "2.920GB",
+      "preco": 100
+    },
+    {
+      "categoria": "DIÁRIO",
+      "pacote": "7GB",
+      "preco": 190
+    },
+    {
+      "categoria": "SEMANAL",
+      "pacote": "10GB",
+      "preco": 230
+    },
+    {
+      "categoria": "SEMANAL",
+      "pacote": "10.7GB",
+      "preco": 285
+    },
+    {
+      "categoria": "SEMANAL",
+      "pacote": "14.300GB",
+      "preco": 379
+    },
+    {
+      "categoria": "SEMANAL",
+      "pacote": "10.715GB",
+      "preco": 290
+    },
+    {
+      "categoria": "MENSAL",
+      "pacote": "17.900GB-489",
+      "preco": 489
+    },
+    {
+      "categoria": "MENSAL",
+      "pacote": "17.900GB-470",
+      "preco": 470
+    },
+    {
+      "categoria": "MENSAL",
+      "pacote": "35.800GB",
+      "preco": 989
+    },
+    {
+      "categoria": "MENSAL",
+      "pacote": "53.600GB",
+      "preco": 1399
+    },
+    {
+      "categoria": "MENSAL",
+      "pacote": "71.500GB",
+      "preco": 1849
+    },
+    {
+      "categoria": "MENSAL",
+      "pacote": "89.400GB",
+      "preco": 2350
+    }
+  ],
+  "pagamentos": {
+    "mpesa": {
+      "numero": "856783265",
+      "nome": "Monica"
+    },
+    "emola": {
+      "numero": "878423941",
+      "nome": "Maria Raimundo"
+    }
+  },
+  "compras": [
+    {
+      "id": "CMPMVH9R8TP",
+      "jid": "267461203095661@lid",
+      "nome": "267461203095661",
+      "pacote": "820MB",
+      "valor": 20,
+      "numero": "856783265",
+      "status": "AGUARDANDO_PAGAMENTO",
+      "criadoEm": "2026-10-20T22:42:55.213Z"
+    }
+  ],
+  "clientes": {
+    "267461203095661@lid": {
+      "nome": "267461203095661",
+      "compras": 0,
+      "totalGasto": 0,
+      "pontos": 0
+    }
+  },
+  "config": {
+    "manutencao": false,
+    "boasVindas": true,
+    "antilink": false,
+    "grupoFechado": false,
+    "detector": true,
+    "antifoto": false,
+    "antiaudio": false,
+    "antivideo": false,
+    "antistatus": false,
+    "nanoativar": false,
+    "antiburlador": true,
+    "aluguelBot": false,
+    "compras": true
+  },
+  "contador": 1,
+  "fila": [
+    {
+      "id": "CMPMVH9R8TP",
+      "pacote": "820MB",
+      "numero": "856783265",
+      "status": "AGUARDANDO_PAGAMENTO"
+    }
+  ]
+}
